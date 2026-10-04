@@ -10,7 +10,9 @@ public class Calculator {
     public double subtract(double a, double b) {
         return a - b;
     }
+
 // multiply method Rumyana local
+
     public double multiply(double a, double b) {
         return a * b;
     }
