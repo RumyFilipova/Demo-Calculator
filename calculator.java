@@ -2,7 +2,7 @@
 // e.g. package com.yourcompany.calculator;
 
 public class Calculator {
-
+// add method
     public double add(double a, double b) {
         return a + b;
     }
